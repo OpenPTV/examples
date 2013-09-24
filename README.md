@@ -7,6 +7,7 @@ This repository will include several examples of the OpenPTV working folder setu
 2. Three dimensional (3D) setup with 4 cameras, multiple-media (air-glass-water)
 3. Three dimensional setup using 4 cameras from two sides of a tank (positive and negative z) [Link](https://bitbucket.org/turbulencelabtau/ptv_test_cavity)
 4. Three dimensional setup with a single camera and mirror-based four-view splitter, [Link](https://bitbucket.org/turbulencelabtau/ptv_test_folder)
+5. Short 3D-PTV example from the single camera and the 4-view splitter at Tel Aviv University [](test_splitter/)
 
 
 ## Two dimensional (2D) example of OpenPTV
