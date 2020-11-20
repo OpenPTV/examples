@@ -3,7 +3,7 @@ Two-dimensional flow example
 
 In this example we show how to use your 2D flow images and track those using OpenPTV software. 
 
-For this purpose we've downloaded the example data from the [website of Prof. Nick Ouellette](http://leviathan.eng.yale.edu/software_tracking.html). This is a very nice set of data measured in the laboratory of Prof. Nick Ouellette in two-dimensional settings. There is also a Matlab-based two-dimensional tracking that you're welcome to test and compare to the results obtained from OpenPTV.
+For this purpose we've downloaded the example data from the [website of Prof. Nick Ouellette](http://web.stanford.edu/~nto/software_tracking.shtml). This is a very nice set of data measured in the laboratory of Prof. Nick Ouellette in two-dimensional settings. There is also a Matlab-based two-dimensional tracking that you're welcome to test and compare to the results obtained from OpenPTV.
 
 
 ## Prerequisities
